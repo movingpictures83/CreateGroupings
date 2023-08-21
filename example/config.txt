@@ -1,0 +1,2 @@
+Prefix plugins/CreateGroupings/example/
+Plugin CreateGroupings inputfile input.csv outputfile output.csv
